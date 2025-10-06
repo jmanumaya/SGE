@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema5\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B414B2-ECB3-4881-9332-A7AC03B74B50}|HelloWorld\\HelloWorld.csproj|c:\\users\\jm.maya\\documents\\github\\sge\\tema5\\helloworld\\helloworld\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B414B2-ECB3-4881-9332-A7AC03B74B50}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B414B2-ECB3-4881-9332-A7AC03B74B50}|HelloWorld\\HelloWorld.csproj|c:\\users\\jm.maya\\documents\\github\\sge\\tema5\\helloworld\\helloworld\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62B414B2-ECB3-4881-9332-A7AC03B74B50}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema5\\HelloWorld\\HelloWorld\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema5\\HelloWorld\\HelloWorld\\Default.aspx.cs",
+              "RelativeToolTip": "HelloWorld\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:09:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema5\\HelloWorld\\HelloWorld\\Default.aspx",
+              "RelativeDocumentMoniker": "HelloWorld\\Default.aspx",
+              "ToolTip": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema5\\HelloWorld\\HelloWorld\\Default.aspx",
+              "RelativeToolTip": "HelloWorld\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T11:53:34.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
