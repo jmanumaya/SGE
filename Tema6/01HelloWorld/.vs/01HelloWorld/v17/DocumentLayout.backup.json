@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema6\\01HelloWorld\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37A9CC-2199-4F5C-BD8C-CB0DE142B9EB}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\jm.maya\\documents\\github\\sge\\tema6\\01helloworld\\01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B37A9CC-2199-4F5C-BD8C-CB0DE142B9EB}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37A9CC-2199-4F5C-BD8C-CB0DE142B9EB}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\jm.maya\\documents\\github\\sge\\tema6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37A9CC-2199-4F5C-BD8C-CB0DE142B9EB}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:28:20.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jm.maya\\Documents\\GitHub\\SGE\\Tema6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:27:13.507Z",
+              "EditorCaption": ""
             }
           ]
         }
